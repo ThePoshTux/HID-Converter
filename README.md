@@ -5,9 +5,11 @@ Input devices:
   USB keyboard and/or mouse
 
 Outputs:
-  Keyboards
+  Keyboards (
     IBM AT
     IBM PS/2
-  Mice
+    ),
+  Mice (
     Serial port
     PS/2
+    )
